@@ -17,7 +17,8 @@
 7) alias myclear="clear"
 8) (a) clear is renamed to cls and cls is used to clear screen.
        ls is renamed to cls and cls list the files in directories.
-   (b) d1 directory is created,now change directory, two files f1 and f2 are created in d1, then f1 is modified,using cd without parameters take to home directory and again making directory name d1 gives error message.
+   (b) d1 directory is created,now change directory
+   , two files f1 and f2 are created in d1, then f1 is modified,using cd without parameters take to home directory and again making directory name d1 gives error message.
 
 ## QUESTION 2 
 
